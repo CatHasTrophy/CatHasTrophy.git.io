@@ -5,54 +5,44 @@ import './Certifications.css';
 function Certifications() {
   const certificateData = [
     {
-      title: "Data Science and Analytics",
-      description: "Hp Life",
-      image: "DS_HpLife.jpg",
-    },
-    {
-      title: "Introduction To Data Science",
-      description: "Cisco Networking Academy",
-      image: "DS_Cisco.jpg",
-    },
-    {
-      title: "Oracle Cloud Infrastructure ",
-      description: "Oracle University",
-      image: "Cloud_Oracle.jpg",
-    },
-    {
-      title: "What is Data Science",
-      description: "IBM by Coursera",
-      image: "DS_Coursera.jpg",
-    },
-    {
-      title: "Introduction to Soft Skills",
-      description: "TCS Ion",
-      image: "SoftSkills_TCSion.jpg",
-    },
-    {
-      title: "Amazon EC2 Observability, Monitoring and Troubleshooting",
-      description: "AWS",
-      image: "aws.jpg",
-    },
-    {
-      title: "Data, Data, Everywhere",
-      description: "Google by Coursera",
-      image: "Foundations_cousera.jpg",
-    },
-    {
-      title: "Effective Leadership",
-      description: "HP Life",
-      image: "EL_HpLife.jpg",
-    },
-    {
-      title: "Machine Learning Internship",
-      description: "Sync Interns",
-      image: "ML_Sync.jpg",
-    },
-    {
-      title: "Introduction To SQL",
+      title: "Complete SQL Bootcamp",
       description: "Udemy",
-      image: "sql.jpg",
+      image: "sql.jpg"
+    },
+    {
+      title: "Data Analysis and Visulaization with Pandas",
+      description: "LinkedIN Learning",
+      image: "Advanced_Pandas.png",
+    },
+    {
+      title: "Essentials of PowerBI",
+      description: "DataCamp",
+      image: "DataCamp_PowerBI.png",
+    },
+    {
+      title: "Automation with Python",
+      description: "Google by Coursera",
+      image: "Automation_with_Python.png",
+    },
+    {
+      title: "Basic Python Certification",
+      description: "HackerRank",
+      image: "python_certification.png",
+    },
+    {
+      title: "Excel for Finance",
+      description: "CFI",
+      image: "excel_for_finance.png",
+    },
+    {
+      title: "Financial Modeling",
+      description: "Udemy",
+      image: "Financial_Modeling_Certificate.jpg",
+    },
+    {
+      title: "Content Writing Internship",
+      description: "CollegeTips.in",
+      image: "Coll_Internship.png",
     },
   
   ];
