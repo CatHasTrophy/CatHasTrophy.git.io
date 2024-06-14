@@ -13,7 +13,7 @@ function About() {
         <Row className="align-items-center">
           <Col md={7} className="order-2 order-md-1">
             <div id="title">
-              Hi, I am <br /> Ashrafali...
+              Hi, I am <br /> Talha...
             </div>
             <div id="textLoop">
               I am a{" "}
@@ -21,10 +21,10 @@ function About() {
                 <Typewriter
                   options={{
                     strings: [
-                      "Data Scientist",
+                      "Business Analyst",
                       "Data Analyst",
-                      "ML Engineer",
-                      "AI Researcher",
+                      "Financial Analyst",
+                      "Researcher",
                     ],
                     autoStart: true,
                     loop: true,
@@ -47,12 +47,12 @@ function About() {
               </a>
               <a
                 id="SocialMediaIcon"
-                href="https://github.com/ASHRAFALI-M"
+                href="https://github.com/CatHasTrophy"
                 target="_blank"
               >
                 <FontAwesomeIcon icon={faGithub} />
               </a>
-              <a id="SocialMediaIcon" href="mailto:ashrafali31018@gmail.com">
+              <a id="SocialMediaIcon" href="mailto:abutalha.khan53@gmail.com">
                 <FontAwesomeIcon icon={faEnvelope} />
               </a>
             </div>
