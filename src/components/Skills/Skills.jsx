@@ -4,20 +4,13 @@ import "./Skills.css";
 
 const skillsData = [
   { image: "python.png", name: "Python" },
-  { image: "Java.png", name: "Java" },
   { image: "mysql.png", name: "MySQL" },
   { image: "pandas.png", name: "Pandas" },
   { image: "numpy.png", name: "Numpy" },
-  { image: "js.png", name: "JavaScript" },
-  { image: "keras.png", name: "Keras" },
-  { image: "scilearn.png", name: "Scikit-learn" },
-  { image: "nlp.png", name: "NLP" },
   { image: "powerbi.png", name: "PowerBi" },
   { image: "matplot.png", name: "Matplotlib" },
   { image: "git.png", name: "Git" },
   { image: "github.png", name: "GitHub" },
-  { image: "tensorflow.png", name: "Tensorflow" },
-  { image: "R.png", name: "R" },
   { image: "excel.jpeg", name: "Excel" }
 
 ];
