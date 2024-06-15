@@ -8,28 +8,28 @@ function Footer() {
   return (
     <div id="FooterContainer">
       <div id="FooterWrapper">
-        <h1 id="Logo">ASHRAFALI</h1>
+        <h1 id="Logo">ABU TALHA NASIR KHAN</h1>
         <div id="SocialMediaIcons">
           <a
             id="SocialMediaIcon"
-            href="https://www.linkedin.com/in/ashrafali-m-769b25246"
+            href="https://www.linkedin.com/in/abu-talha-nasir-khan-2b5436215"
             target="display"
           >
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
           <a
             id="SocialMediaIcon"
-            href="https://github.com/ASHRAFALI-M"
+            href="https://github.com/CatHasTrophy"
             target="_blank"
           >
             <FontAwesomeIcon icon={faGithub} />
           </a>
-          <a id="SocialMediaIcon" href="mailto:ashrafali31018@gmail.com">
+          <a id="SocialMediaIcon" href="mailto:abutalha.khan53@gmail.com">
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
         </div>
         <div id="Copyright">
-          &copy; 2024 Ashrafali. All rights reserved.
+          &copy; 2024 TALHA. All rights reserved.
         </div>
       </div>
     </div>
