@@ -48,16 +48,16 @@ function Header() {
               </Nav.Item>
             </Nav>
             <Nav className="navbar-text">
-            <Nav.Link href="https://www.linkedin.com/in/ashrafali-m-769b25246" target="_blank" rel="noopener noreferrer">
+            <Nav.Link href="https://www.linkedin.com/in/abu-talha-nasir-khan-2b5436215" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faLinkedin} className="navbar-icon" />
               </Nav.Link>
-              <Nav.Link href="https://github.com/ASHRAFALI-M" target="_blank" rel="noopener noreferrer">
+              <Nav.Link href="https://github.com/CatHasTrophy" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faGithub} className="navbar-icon" />
               </Nav.Link>
-              <Nav.Link href="mailto:ashrafali31018@gmail.com">
+              <Nav.Link href="mailto:abutalha.khan53@gmail.com">
                 <FontAwesomeIcon icon={faEnvelope} className="navbar-icon" />
               </Nav.Link>
-              <Nav.Link href="https://drive.google.com/file/d/1vH4_XyEhNU6CyyYI-ni3yIyKF8pbMBb-/view?usp=sharing" download className="btn btn-primary navbar-btn" target="_blank">
+              <Nav.Link href="https://drive.google.com/file/d/1RWu4yEXBgNqZDTgE-wlaxiO9vtEEk4kx/view?usp=drivesdk" download className="btn btn-primary navbar-btn" target="_blank">
                 Resume
               </Nav.Link>
           </Nav>
