@@ -24,7 +24,7 @@ function Header() {
         <div className="container-fluid" >
           <Navbar.Brand href="#" className="navbar-brand-custom">
             {/* <img src="/logo-black.png" alt="Logo" width="30" height="30" className="d-inline-block align-top" /> */}
-            <span>A</span>SHRAFALI
+            <span>T</span>ALHA
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarNav" />
           <Navbar.Collapse id="navbarNav">
