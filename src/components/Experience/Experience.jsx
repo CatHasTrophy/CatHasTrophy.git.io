@@ -8,42 +8,29 @@ import { faCircleDot } from "@fortawesome/free-regular-svg-icons";
 
 const experiences = [
   {
-    role: "AI Researcher Intern",
-    company: "Trio Devs",
-    img: "trio.jpeg",
+    role: "Business Analyst Intern",
+    company: "Outlook Publishing (India) Pvt. Ltd.",
+    img: "out_logo.jpg",
     date: "05/2024",
     endDate: "",
-    skills: ["Artificial Intelligence","Research","Communication","Team Work"],
+    skills: ["Data Analysis","Research","SQL","Excel","Data Visualization"],
     description: [
-      "AI research intern skilled in data analysis, machine learning, and algorithm development.",
-      "Proficient in programming languages such as Python, with a passion for exploring innovative solutions to complex problems.",
-      "Collaborative team player eager to contribute to cutting-edge research initiatives in artificial intelligence."
+      "Data analyst intern skilled in data analysis, visualization, and statistical modeling.",
+      " Proficient in tools such as Excel, SQL, and Python, with a passion for deriving insights from complex datasets.",
+      " Collaborative team player eager to contribute to data-driven decision-making and business strategies."
     ],
   },
   {
-    role: "Data Science Intern",
-    company: "Unified Mentor private limited",
-    img: "uni.jpeg",
-    date: "05/2024",
-    endDate: "07/2024",
-    skills: ["Data Science","Ml Algorithms","Data Preprocessing","Data Visualization"],
+    role: "Content Writing Intern",
+    company: "CollegeTips.in",
+    img: "Coll_logo.jpeg",
+    date: "07/2021",
+    endDate: "08/2021",
+    skills: ["Script Writing","Research","Team Work","Story-Telling"],
     description: [
-      "In my 2-month virtual data science internship at Unified Mentor Pvt., I tackled real-world challenges by creating innovative predictive models and uncovering deep data insights.",
-      " I harnessed cutting-edge technologies and collaborated on transformative projects, driving impactful data-driven solutions. ",
-      " This internship significantly boosted my expertise in machine learning, data visualization, and advanced analytics."
-    ],
-  },
-  {
-    role: "Machine Learning Intern",
-    company: "Sync Interns",
-    img: "sync.png",
-    date: "07/2023",
-    endDate: "08/2023",
-    skills: ["Ml Algorithms","Data Preprocessing"],
-    description: [
-      "During my virtual machine learning internship, I gained hands-on experience applying algorithms to real-world datasets.",
-      " I developed predictive models, optimized them for performance, and learned to interpret results for practical applications.",
-      " Through collaborative projects and mentorship, I honed my skills in data preprocessing, model selection, and evaluation techniques, contributing to my growth as a budding data scientist."
+      "Content writing intern skilled in creating engaging, SEO-friendly content across various platforms.",
+      " Proficient in research, copywriting, and editing, with a passion for storytelling and brand voice consistency. ",
+      " Collaborative team player eager to contribute to impactful content strategies and digital marketing initiatives."
     ],
   }
 ];
