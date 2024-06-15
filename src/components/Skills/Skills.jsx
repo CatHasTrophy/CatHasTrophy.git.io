@@ -11,7 +11,9 @@ const skillsData = [
   { image: "matplot.png", name: "Matplotlib" },
   { image: "git.png", name: "Git" },
   { image: "github.png", name: "GitHub" },
-  { image: "excel.jpeg", name: "Excel" }
+  { image: "excel.jpeg", name: "Excel" },
+  { image: "FM_logo.jpg", name: "Financial Modelling"},
+  { image: "pp_logo.jpg", name: "PowerPoint"}
 
 ];
 
